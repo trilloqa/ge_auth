@@ -1,0 +1,6 @@
+{
+"name" : "Test",
+"type" : "mongo",
+"uid" : "DataSourceM.Test",
+"useDefault" : false
+}
